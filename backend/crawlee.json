@@ -1,0 +1,5 @@
+{
+  "enableSystemInfo": false,
+  "logLevel": "INFO",
+  "storageDir": "./storage"
+}
